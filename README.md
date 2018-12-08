@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -50,4 +50,4 @@ Proyecto Final PioCamp
   * Catalina, 
   * Daniela, 
   * Lina
->>>>>>> origin/master
+
