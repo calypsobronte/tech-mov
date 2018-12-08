@@ -1,2 +1,6 @@
-# tech-mov
-Proyecto Final PioCamp - Equipo: Catalina, Daniela, Lina
+# Tech Mov
+Proyecto Final PioCamp
+- Equipo: 
+  * Catalina, 
+  * Daniela, 
+  * Lina
