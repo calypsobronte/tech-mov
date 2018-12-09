@@ -1,9 +1,9 @@
 # Tech Mov
 Proyecto Final PioCamp
 - Equipo: 
-  * Catalina, 
-  * Daniela, 
-  * Lina
+  * [Catalina Zapata](https://twitter.com/ktadelinaCO) 
+  * [Daniela Montoya]() 
+  * [Lina Montaño](https://twitter.com/calypso_bronte)
 
 
 ### `npm install`
