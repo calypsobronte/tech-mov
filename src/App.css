@@ -30,3 +30,122 @@
     transform: rotate(360deg);
   }
 }
+
+.navMov{
+  top: 10px !important;
+}
+
+.cata{
+  width: 300px; height: 300px;
+}
+
+
+/* banner */
+.silowp-showcase {
+	background-image: url('./assets/bannerPrincipal.png');
+	background-repeat: no-repeat,
+		repeat-x;
+	background-position: center center,
+		center center;
+}
+.silowp-showcase .row {
+	min-height: 350px;
+  text-align: center;
+}
+.silowp-showcase .row .col-xs-12 {
+	position: initial;
+}
+.silowp-showcase .entry-title {
+	color: #fff;
+	margin-bottom: 20px;
+}
+.silowp-showcase a.more-link {
+	color: #e8b935 !important;
+	background-color: #fff;
+	position: initial;
+	font-size: 16px;
+}
+.silowp-showcase a.more-link:after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: block;
+	top: 0;
+	left: 0;
+}
+
+/* Inherited Styles from SiloCreativo.com CSS */
+.row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.flex-xs-middle {
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+}
+.col-xs-12 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    font-family: 'Work Sans', Helvetica, sans-serif;
+    text-transform: none;
+    text-rendering: optimizeLegibility;
+    font-weight: 600;
+    line-height: 1.15;
+    word-wrap: break-word;
+    margin: 1em 0 0.5em;
+    letter-spacing: -0.02em;
+    color: #fff;
+}
+.entry-title {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    position: relative;
+    word-wrap: break-word;
+}
+h1 {
+    font-size: 47px;
+    /* font-size: 1.5rem; */
+}
+a.more-link, .st-button, .visit-theme, .entry-content a.visit-theme, .entry-summary a.visit-theme, button, input[type="submit"], input[type="button"], input[type="reset"], .comment-navigation a, #page .jetpack-recipe-meta li.jetpack-recipe-print a, #main #infinite-handle span {
+    background-color: forestgreen;
+    display: inline-block;
+    padding: 5px 20px;
+    color: #fff !important;
+    text-decoration: none;
+    font: 400 14px 'Work Sans', Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    border: none !important;
+    position: relative;
+    border-radius: 4px;
+    -webkit-transition: .1s all ease-in-out;
+    -moz-transition: .1s all ease-in-out;
+    -o-transition: .1s all ease-in-out;
+    transition: .1s all ease-in-out;
+}
+
+.bannerP{
+  color: #fff;
+}
