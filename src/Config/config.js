@@ -6,3 +6,5 @@ export const DB_CONFIG = {
     storageBucket: "",
     messagingSenderId: "906039865300"
 }
+
+//Configuración de Firebase

@@ -15,6 +15,9 @@ const Articulos = () => (
     <div class="section-content" id="blogContent">
       <div class="row" id="jsonContent"></div>
     </div>
+    {/*
+    * tratamos de hacer el paso de conectar esta en react 
+   */}
 
     <div class="avatar mx-auto">
     <a href="https://codepen.io/calypso_bronte/pen/ebJOXR?editors=1010">

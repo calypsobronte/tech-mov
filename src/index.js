@@ -12,7 +12,8 @@ import Home from "./components/Home"
 import Movimiento from './components/Movimiento'
 import Articulos from './components/Articulos'
 import Contacto from './components/Contact'
-//import Contacto from './Contact/Contact'
+
+//Funciones
 const history = createBrowserHistory();
 const Context = React.createContext();
 const styles = { height : "80px", width : "200px" }
