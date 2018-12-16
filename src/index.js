@@ -11,6 +11,7 @@ import './medium'
 import Home from "./components/Home"
 import Movimiento from './components/Movimiento'
 import Articulos from './components/Articulos'
+import Contacto from './components/Contact'
 //import Contacto from './Contact/Contact'
 const history = createBrowserHistory();
 const Context = React.createContext();
@@ -49,7 +50,7 @@ const Content = () => (
     <Route exact path="/" component={Home} />
     <Route path="/movimiento" component={Movimiento} />
     <Route path="/articulos" component={Articulos} />
-    {/* <Route path="/contacto" component={Contacto} /> */}
+    <Route path="/contacto" component={Contacto} />
   </React.Fragment>
 );
 
